@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"DocBlockr",
+		"Handlebars",
+		"HTMLBeautify",
+		"Package Control",
+		"Phpcs",
+		"SFTP",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"Vue Syntax Highlight"
+	]
+}

@@ -1,0 +1,852 @@
+{
+	"folder_history":
+	[
+		"/var/www/html/git/inquire/resources/assets",
+		"/var/www/html/git/inquire",
+		"/var/www/html/git/inquire/resources",
+		"/mnt/normandy/git/creator",
+		"/mnt/normandy/git/control-centre",
+		"/mnt/normandy/git",
+		"/usr/local/developer/mobile-sdk/6.0.0.431-1.2.0-1",
+		"/var/www/html/git/citysprint-app",
+		"/var/www/html/sugarent",
+		"/var/www/html/git/enable-login",
+		"/var/www/html/git/healthcheckapi",
+		"/var/www/html/git/controlcentre2",
+		"/run/user/1000/gvfs/sftp:host=normandy.services.enablehosts.uk,user=daniel/var/www/html/git/enableit",
+		"/run/user/1000/gvfs/sftp:host=normandy.services.enablehosts.uk/var/www/html/git"
+	],
+	"last_version": 3143,
+	"last_window_id": 14,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 483.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"mar",
+						"margin-bottom"
+					],
+					[
+						"text",
+						"text-align"
+					],
+					[
+						"update",
+						"updateCoordsQuery"
+					],
+					[
+						"id",
+						"id3_get_tag"
+					],
+					[
+						"company",
+						"companyTable"
+					],
+					[
+						"min-",
+						"min-width"
+					],
+					[
+						"ti",
+						"titlebar"
+					],
+					[
+						"un",
+						"unique-key"
+					],
+					[
+						"change",
+						"changeOfSystem"
+					],
+					[
+						"sort",
+						"sorttable"
+					],
+					[
+						"temp",
+						"tempCurrentEnv"
+					],
+					[
+						"data",
+						"dataType"
+					],
+					[
+						"sys",
+						"systemName"
+					],
+					[
+						"user",
+						"userId"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"env",
+						"environment"
+					],
+					[
+						"opt",
+						"option\tTag"
+					],
+					[
+						"print",
+						"print_r"
+					],
+					[
+						"active",
+						"activeTabManager"
+					],
+					[
+						"for",
+						"foreach\tforeach …"
+					],
+					[
+						"json",
+						"json_encode"
+					],
+					[
+						"di",
+						"div\tTag"
+					],
+					[
+						"hea",
+						"header\tTag"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "Package Control: ",
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 533.0
+			},
+			"console":
+			{
+				"height": 501.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/var/www/html/git/inquire/resources/assets/js/app.js",
+				"/var/www/html/git/inquire/resources/assets/js/components/browse/Browse.vue",
+				"/var/www/html/git/inquire/resources/assets/js/components/base/Titlebar.vue",
+				"/var/www/html/git/inquire/resources/assets/js/components/browse/SideList.vue",
+				"/var/www/html/git/inquire/resources/assets/js/components/company/Company.vue",
+				"/var/www/html/git/inquire/app/Inquire/Company/Company.php",
+				"/var/www/html/git/inquire/app/Http/Controllers/CompaniesController.php",
+				"/var/www/html/git/inquire/resources/assets/js/components/browse/CompanyList.vue",
+				"/var/www/html/git/inquire/resources/assets/js/routes.js",
+				"/var/www/html/git/inquire/app/Inquire/Company/Filter.php",
+				"/var/www/html/git/inquire/resources/assets/js/components/home/Home.vue",
+				"/var/www/html/git/inquire/resources/assets/js/utils/Config.js",
+				"/var/www/html/git/inquire/resources/assets/js/components.js",
+				"/var/www/html/git/inquire/resources/assets/js/components/maps/Maps.vue",
+				"/var/www/html/git/inquire/resources/assets/js/packages.js",
+				"/var/www/html/git/inquire/resources/assets/js/bootstrap.js",
+				"/var/www/html/git/inquire/node_modules/vue2-google-maps/README.md",
+				"/var/www/html/git/inquire/node_modules/vue2-google-maps/package.json",
+				"/var/www/html/git/inquire/routes/web.php",
+				"/var/www/html/git/inquire/app/Http/Controllers/ConfigController.php",
+				"/var/www/html/git/inquire/.env",
+				"/var/www/html/git/inquire/resources/assets/js/Utils/Config.js",
+				"/var/www/html/git/inquire/resources/assets/js/App.vue",
+				"/var/www/html/git/inquire/app/Inquire/CompanyFilter/Company.php",
+				"/var/www/html/git/inquire/app/Providers/FilterServiceProvider.php",
+				"/var/www/html/git/inquire/vendor/composer/ClassLoader.php",
+				"/var/www/html/git/inquire/app/Inquire/CompanyFilter/Builder.php",
+				"/var/www/html/git/inquire/app/Inquire/Filter/Builder.php",
+				"/var/www/html/git/inquire/resources/assets/js/components/base/Nav.vue",
+				"/var/www/html/git/inquire/resources/assets/sass/app.scss",
+				"/var/www/html/git/inquire/config/app.php",
+				"/var/www/html/git/inquire/bootstrap/app.php",
+				"/var/www/html/git/inquire/app/Inquire/Filter/Filter.php",
+				"/var/www/html/git/inquire/app/Providers/AuthServiceProvider.php",
+				"/var/www/html/git/inquire/app/Providers/AppServiceProvider.php",
+				"/var/www/html/git/inquire/app/Http/Controllers/Auth/ForgotPasswordController.php",
+				"/var/www/html/git/inquire/app/Http/Controllers/Auth/LoginController.php",
+				"/var/www/html/git/inquire/app/Http/Controllers/Controller.php",
+				"/var/www/html/git/inquire/routes/channels.php",
+				"/var/www/html/git/inquire/routes/api.php",
+				"/var/www/html/git/inquire/app/Http/Middleware/RedirectIfAuthenticated.php",
+				"/var/www/html/git/inquire/app/Http/Middleware/VerifyCsrfToken.php",
+				"/var/www/html/git/inquire/resources/assets/js/components/Base/ Nav.vue",
+				"/var/www/html/git/inquire/resources/assets/js/components/base/ Nav.vue",
+				"/var/www/html/git/inquire/resources/assets/js/components/Home/Home.vue",
+				"/var/www/html/git/inquire/public/css/app.css",
+				"/var/www/html/git/inquire/resources/assets/sass/_variables.scss",
+				"/var/www/html/git/inquire/resources/assets/js/components/views/Home.vue",
+				"/var/www/html/git/inquire/resources/assets/js/components/views/App.vue",
+				"/var/www/html/git/inquire/resources/assets/js/components/ExampleComponent.vue",
+				"/var/www/html/git/inquire/resources/views/index.blade.php",
+				"/var/www/html/git/inquire/package.json",
+				"/var/www/html/git/inquire/resources/views/welcome.blade.php",
+				"/var/www/html/git/inquire/public/js/app.js",
+				"/var/www/html/git/inquire/public/index.php",
+				"/var/www/html/git/inquire/resources/views/base.blade.php",
+				"/var/www/html/git/inquire/public/js/vendor/require.js",
+				"/home/daniel/Downloads/test.js",
+				"/home/daniel/.config/sublime-text-3/Packages/User/SublimeLinter.sublime-settings",
+				"/home/daniel/.config/sublime-text-3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+				"/home/daniel/.config/sublime-text-3/Packages/Phpcs/phpcs.sublime-settings",
+				"/home/daniel/.config/sublime-text-3/Packages/Phpcs/Default (Linux).sublime-keymap",
+				"/home/daniel/.config/sublime-text-3/Packages/User/phpcs.sublime-settings",
+				"/mnt/normandy/git/creator/src/SubHandlers/message.json",
+				"/mnt/normandy/git/creator/src/BaseHandler.php",
+				"/mnt/normandy/git/creator/app/config/Config.php",
+				"/mnt/normandy/git/creator/src/Init.php",
+				"/mnt/normandy/git/control-centre/src/AppBundle/Lib/HealthCheckApi/Access.php",
+				"/mnt/normandy/git/control-centre/src/AppBundle/Lib/Creator/CreatorManager.php",
+				"/mnt/normandy/git/control-centre/src/AppBundle/Lib/Pdf/EnablePdf.php",
+				"/mnt/normandy/git/control-centre/src/AppBundle/Lib/HealthCheckApi/Manager.php",
+				"/mnt/normandy/git/control-centre/src/AppBundle/Lib/Creator/CreatorClient.php",
+				"/mnt/normandy/git/control-centre/vendor/guzzlehttp/guzzle/src/Client.php",
+				"/mnt/normandy/git/control-centre/vendor/guzzlehttp/guzzle/LICENSE",
+				"/mnt/normandy/git/control-centre/vendor/guzzlehttp/guzzle/README.md",
+				"/mnt/normandy/git/control-centre/vendor/guzzlehttp/guzzle/composer.json",
+				"/mnt/normandy/git/control-centre/src/AppBundle/Lib/HealthCheckApi/Client/HcClient.php",
+				"/mnt/normandy/git/control-centre/src/AppBundle/Listener/NoAuthListener.php",
+				"/mnt/normandy/git/control-centre/src/AppBundle/Controller/Creator/CreatorController.php",
+				"/mnt/normandy/git/control-centre/src/AppBundle/Controller/LoginController.php",
+				"/mnt/normandy/git/control-centre/src/AppBundle/Controller/HomeController.php",
+				"/mnt/normandy/git/control-centre/src/AppBundle/Controller/HealthCheckApi/System.php",
+				"/mnt/normandy/git/control-centre/app/config/services.yml",
+				"/mnt/normandy/git/control-centre/src/AppBundle/Controller/Ansible/CreatorController.php",
+				"/mnt/normandy/git/control-centre/web/js/modules/views/creator/dev.js",
+				"/mnt/normandy/git/control-centre/app/Resources/hbs/creator/dev.hbs",
+				"/mnt/normandy/git/control-centre/web/js/modules/request/router.js",
+				"/mnt/normandy/git/control-centre/app/Resources/hbs/core/sidebar.hbs",
+				"/mnt/normandy/git/control-centre/web/js/modules/views/creator/clone.js",
+				"/mnt/normandy/git/control-centre/app/Resources/hbs/creator/clone.hbs",
+				"/mnt/normandy/git/control-centre/src/AppBundle/Lib/Ansible/Manager.php",
+				"/mnt/normandy/git/control-centre/web/js/modules/request/ajax.js",
+				"/mnt/normandy/git/control-centre/app/Resources/hbs/creator/creator.hbs",
+				"/mnt/normandy/git/control-centre/web/js/modules/views/creator/creator.js",
+				"/mnt/normandy/git/control-centre/web/js/modules/views/users/users.js",
+				"/mnt/normandy/git/control-centre/web/js/modules/views/base/systemView.js",
+				"/mnt/normandy/git/control-centre/web/js/modules/views/base/panelView.js",
+				"/mnt/normandy/git/control-centre/web/js/modules/views/users/list.js",
+				"/mnt/normandy/git/control-centre/web/js/modules/views/base/panelView.js.orig",
+				"/mnt/normandy/git/control-centre/app/Resources/hbs/users/system.hbs",
+				"/mnt/normandy/git/control-centre/app/config/parameters.yml",
+				"/mnt/normandy/git/control-centre/app/Resources/hbs/users/info.hbs",
+				"/usr/local/developer/mobile-sdk/6.0.0.431-1.2.0-1/app/js/core/nomad-controller.js",
+				"/usr/local/developer/mobile-sdk/6.0.0.431-1.2.0-1/app/js/views/detail/detail-view.js",
+				"/var/www/html/git/citysprint-app/custom/views/near-me-map/near-me-map-view.js",
+				"/var/www/html/git/citysprint-app/custom/views/near-me/near-me-list-view.js",
+				"/usr/local/developer/mobile-sdk/6.0.0.431-1.2.0-1/app/js/views/list/list.hbs",
+				"/var/www/html/git/citysprint-app/custom/views/history/history-list.hbs",
+				"/var/www/html/git/citysprint-app/custom/views/history/history-list-view.js",
+				"/usr/local/developer/mobile-sdk/6.0.0.431-1.2.0-1/app/js/views/list/list-no-records.hbs",
+				"/usr/local/developer/mobile-sdk/6.0.0.431-1.2.0-1/app/js/views/list/list-view.js",
+				"/var/www/html/git/citysprint-app/custom/views/history/history-list-item.hbs",
+				"/usr/local/developer/mobile-sdk/6.0.0.431-1.2.0-1/app/js/core/hbs-helpers.js",
+				"/var/www/html/git/citysprint-app/custom/views/account-detail/detail.js",
+				"/var/www/html/git/citysprint-app/custom/views/account-detail/detail.hbs",
+				"/var/www/html/git/citysprint-app/custom/views/history/history-view.hbs",
+				"/var/www/html/git/citysprint-app/custom/routes/history-routes.js",
+				"/var/www/html/git/citysprint-app/custom/actions/history/history.js",
+				"/usr/local/developer/mobile-sdk/6.0.0.431-1.2.0-1/app/js/core/nomad-router.js",
+				"/var/www/html/git/citysprint-app/custom/views/history/history-view.js",
+				"/var/www/html/git/citysprint-app/custom/views/near-me-map/near-me-map-view.hbs",
+				"/var/www/html/git/citysprint-app/custom/menu/near-me-map-routes.js",
+				"/usr/local/developer/mobile-sdk/6.0.0.431-1.2.0-1/app/js/core/component-registration.js",
+				"/usr/local/developer/mobile-sdk/6.0.0.431-1.2.0-1/app/js/core/nomad.js",
+				"/usr/local/developer/mobile-sdk/6.0.0.431-1.2.0-1/app/js/core/customization.js",
+				"/var/www/html/git/citysprint-app/custom/views/history/history-layout.js",
+				"/var/www/html/git/citysprint-app/custom/views/near-me/near-me-layout.js",
+				"/var/www/html/git/controlcentre2/web/js/modules/views/license/license.js"
+			],
+			"find":
+			{
+				"height": 26.0
+			},
+			"find_in_files":
+			{
+				"height": 98.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					";\n",
+					"37ac28c4-d039-11e7-852b-18a9055a64ec",
+					";\n",
+					"div",
+					"scoped",
+					"r"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"cdbb64bb-7ee2-5209-7adf-58dbca1d2102"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 38.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 120.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.sftp":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 324.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"sea",
+						"searchTerm"
+					],
+					[
+						"se",
+						"searchTerm"
+					],
+					[
+						"selected",
+						"selected_distance"
+					],
+					[
+						"padding",
+						"padding-right"
+					],
+					[
+						"ine",
+						"inline-block"
+					],
+					[
+						"com",
+						"completeEvent"
+					],
+					[
+						"mar",
+						"margin-bottom"
+					],
+					[
+						"text",
+						"text-align"
+					],
+					[
+						"update",
+						"updateCoordsQuery"
+					],
+					[
+						"id",
+						"id3_get_tag"
+					],
+					[
+						"company",
+						"companyTable"
+					],
+					[
+						"min-",
+						"min-width"
+					],
+					[
+						"ti",
+						"titlebar"
+					],
+					[
+						"un",
+						"unique-key"
+					],
+					[
+						"change",
+						"changeOfSystem"
+					],
+					[
+						"sort",
+						"sorttable"
+					],
+					[
+						"temp",
+						"tempCurrentEnv"
+					],
+					[
+						"data",
+						"dataType"
+					],
+					[
+						"sys",
+						"systemName"
+					],
+					[
+						"user",
+						"userId"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"env",
+						"environment"
+					],
+					[
+						"opt",
+						"option\tTag"
+					],
+					[
+						"print",
+						"print_r"
+					],
+					[
+						"active",
+						"activeTabManager"
+					],
+					[
+						"for",
+						"foreach\tforeach …"
+					],
+					[
+						"json",
+						"json_encode"
+					],
+					[
+						"di",
+						"div\tTag"
+					],
+					[
+						"hea",
+						"header\tTag"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "Package Control: ",
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 533.0
+			},
+			"console":
+			{
+				"height": 501.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/var/www/html/git/inquire/resources/assets/js/components/browse/CompanyList.vue",
+				"/var/www/html/git/inquire/resources/assets/js/components/home/Home.vue",
+				"/var/www/html/git/inquire/app/Http/Controllers/CompaniesController.php",
+				"/var/www/html/git/inquire/app/Inquire/Company/Filter.php",
+				"/var/www/html/git/inquire/resources/assets/js/routes.js",
+				"/var/www/html/git/inquire/resources/assets/js/components/base/Nav.vue",
+				"/var/www/html/git/inquire/app/Inquire/Company/Company.php",
+				"/var/www/html/git/inquire/resources/assets/js/components/company/Company.vue",
+				"/var/www/html/git/inquire/routes/web.php",
+				"/var/www/html/git/inquire/routes/api.php",
+				"/var/www/html/git/inquire/app/Inquire/GeoLocation/Distance.php",
+				"/var/www/html/git/inquire/app/Inquire/GeoLocation/Distance",
+				"/var/www/html/git/inquire/resources/assets/js/components.js",
+				"/var/www/html/git/inquire/resources/assets/js/components/browse/Browse.vue",
+				"/var/www/html/git/inquire/resources/assets/js/App.vue",
+				"/var/www/html/git/inquire/resources/assets/js/bootstrap.js",
+				"/var/www/html/git/inquire/node_modules/readmore-js/readmore.js",
+				"/var/www/html/git/inquire/resources/assets/js/app.js",
+				"/var/www/html/git/inquire/resources/assets/js/components/base/Titlebar.vue",
+				"/var/www/html/git/inquire/resources/assets/js/components/browse/SideList.vue",
+				"/var/www/html/git/inquire/resources/assets/js/utils/Config.js",
+				"/var/www/html/git/inquire/resources/assets/js/components/maps/Maps.vue",
+				"/var/www/html/git/inquire/resources/assets/js/packages.js",
+				"/var/www/html/git/inquire/node_modules/vue2-google-maps/README.md",
+				"/var/www/html/git/inquire/node_modules/vue2-google-maps/package.json",
+				"/var/www/html/git/inquire/app/Http/Controllers/ConfigController.php",
+				"/var/www/html/git/inquire/.env",
+				"/var/www/html/git/inquire/resources/assets/js/Utils/Config.js",
+				"/var/www/html/git/inquire/app/Inquire/CompanyFilter/Company.php",
+				"/var/www/html/git/inquire/app/Providers/FilterServiceProvider.php",
+				"/var/www/html/git/inquire/vendor/composer/ClassLoader.php",
+				"/var/www/html/git/inquire/app/Inquire/CompanyFilter/Builder.php",
+				"/var/www/html/git/inquire/app/Inquire/Filter/Builder.php",
+				"/var/www/html/git/inquire/resources/assets/sass/app.scss",
+				"/var/www/html/git/inquire/config/app.php",
+				"/var/www/html/git/inquire/bootstrap/app.php",
+				"/var/www/html/git/inquire/app/Inquire/Filter/Filter.php",
+				"/var/www/html/git/inquire/app/Providers/AuthServiceProvider.php",
+				"/var/www/html/git/inquire/app/Providers/AppServiceProvider.php",
+				"/var/www/html/git/inquire/app/Http/Controllers/Auth/ForgotPasswordController.php",
+				"/var/www/html/git/inquire/app/Http/Controllers/Auth/LoginController.php",
+				"/var/www/html/git/inquire/app/Http/Controllers/Controller.php",
+				"/var/www/html/git/inquire/routes/channels.php",
+				"/var/www/html/git/inquire/app/Http/Middleware/RedirectIfAuthenticated.php",
+				"/var/www/html/git/inquire/app/Http/Middleware/VerifyCsrfToken.php",
+				"/var/www/html/git/inquire/resources/assets/js/components/Base/ Nav.vue",
+				"/var/www/html/git/inquire/resources/assets/js/components/base/ Nav.vue",
+				"/var/www/html/git/inquire/resources/assets/js/components/Home/Home.vue",
+				"/var/www/html/git/inquire/public/css/app.css",
+				"/var/www/html/git/inquire/resources/assets/sass/_variables.scss",
+				"/var/www/html/git/inquire/resources/assets/js/components/views/Home.vue",
+				"/var/www/html/git/inquire/resources/assets/js/components/views/App.vue",
+				"/var/www/html/git/inquire/resources/assets/js/components/ExampleComponent.vue",
+				"/var/www/html/git/inquire/resources/views/index.blade.php",
+				"/var/www/html/git/inquire/package.json",
+				"/var/www/html/git/inquire/resources/views/welcome.blade.php",
+				"/var/www/html/git/inquire/public/js/app.js",
+				"/var/www/html/git/inquire/public/index.php",
+				"/var/www/html/git/inquire/resources/views/base.blade.php",
+				"/var/www/html/git/inquire/public/js/vendor/require.js",
+				"/home/daniel/Downloads/test.js",
+				"/home/daniel/.config/sublime-text-3/Packages/User/SublimeLinter.sublime-settings",
+				"/home/daniel/.config/sublime-text-3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+				"/home/daniel/.config/sublime-text-3/Packages/Phpcs/phpcs.sublime-settings",
+				"/home/daniel/.config/sublime-text-3/Packages/Phpcs/Default (Linux).sublime-keymap",
+				"/home/daniel/.config/sublime-text-3/Packages/User/phpcs.sublime-settings",
+				"/mnt/normandy/git/creator/src/SubHandlers/message.json",
+				"/mnt/normandy/git/creator/src/BaseHandler.php",
+				"/mnt/normandy/git/creator/app/config/Config.php",
+				"/mnt/normandy/git/creator/src/Init.php",
+				"/mnt/normandy/git/control-centre/src/AppBundle/Lib/HealthCheckApi/Access.php",
+				"/mnt/normandy/git/control-centre/src/AppBundle/Lib/Creator/CreatorManager.php",
+				"/mnt/normandy/git/control-centre/src/AppBundle/Lib/Pdf/EnablePdf.php",
+				"/mnt/normandy/git/control-centre/src/AppBundle/Lib/HealthCheckApi/Manager.php",
+				"/mnt/normandy/git/control-centre/src/AppBundle/Lib/Creator/CreatorClient.php",
+				"/mnt/normandy/git/control-centre/vendor/guzzlehttp/guzzle/src/Client.php",
+				"/mnt/normandy/git/control-centre/vendor/guzzlehttp/guzzle/LICENSE",
+				"/mnt/normandy/git/control-centre/vendor/guzzlehttp/guzzle/README.md",
+				"/mnt/normandy/git/control-centre/vendor/guzzlehttp/guzzle/composer.json",
+				"/mnt/normandy/git/control-centre/src/AppBundle/Lib/HealthCheckApi/Client/HcClient.php",
+				"/mnt/normandy/git/control-centre/src/AppBundle/Listener/NoAuthListener.php",
+				"/mnt/normandy/git/control-centre/src/AppBundle/Controller/Creator/CreatorController.php",
+				"/mnt/normandy/git/control-centre/src/AppBundle/Controller/LoginController.php",
+				"/mnt/normandy/git/control-centre/src/AppBundle/Controller/HomeController.php",
+				"/mnt/normandy/git/control-centre/src/AppBundle/Controller/HealthCheckApi/System.php",
+				"/mnt/normandy/git/control-centre/app/config/services.yml",
+				"/mnt/normandy/git/control-centre/src/AppBundle/Controller/Ansible/CreatorController.php",
+				"/mnt/normandy/git/control-centre/web/js/modules/views/creator/dev.js",
+				"/mnt/normandy/git/control-centre/app/Resources/hbs/creator/dev.hbs",
+				"/mnt/normandy/git/control-centre/web/js/modules/request/router.js",
+				"/mnt/normandy/git/control-centre/app/Resources/hbs/core/sidebar.hbs",
+				"/mnt/normandy/git/control-centre/web/js/modules/views/creator/clone.js",
+				"/mnt/normandy/git/control-centre/app/Resources/hbs/creator/clone.hbs",
+				"/mnt/normandy/git/control-centre/src/AppBundle/Lib/Ansible/Manager.php",
+				"/mnt/normandy/git/control-centre/web/js/modules/request/ajax.js",
+				"/mnt/normandy/git/control-centre/app/Resources/hbs/creator/creator.hbs",
+				"/mnt/normandy/git/control-centre/web/js/modules/views/creator/creator.js",
+				"/mnt/normandy/git/control-centre/web/js/modules/views/users/users.js",
+				"/mnt/normandy/git/control-centre/web/js/modules/views/base/systemView.js",
+				"/mnt/normandy/git/control-centre/web/js/modules/views/base/panelView.js",
+				"/mnt/normandy/git/control-centre/web/js/modules/views/users/list.js",
+				"/mnt/normandy/git/control-centre/web/js/modules/views/base/panelView.js.orig",
+				"/mnt/normandy/git/control-centre/app/Resources/hbs/users/system.hbs",
+				"/mnt/normandy/git/control-centre/app/config/parameters.yml",
+				"/mnt/normandy/git/control-centre/app/Resources/hbs/users/info.hbs",
+				"/usr/local/developer/mobile-sdk/6.0.0.431-1.2.0-1/app/js/core/nomad-controller.js",
+				"/usr/local/developer/mobile-sdk/6.0.0.431-1.2.0-1/app/js/views/detail/detail-view.js",
+				"/var/www/html/git/citysprint-app/custom/views/near-me-map/near-me-map-view.js",
+				"/var/www/html/git/citysprint-app/custom/views/near-me/near-me-list-view.js",
+				"/usr/local/developer/mobile-sdk/6.0.0.431-1.2.0-1/app/js/views/list/list.hbs",
+				"/var/www/html/git/citysprint-app/custom/views/history/history-list.hbs",
+				"/var/www/html/git/citysprint-app/custom/views/history/history-list-view.js",
+				"/usr/local/developer/mobile-sdk/6.0.0.431-1.2.0-1/app/js/views/list/list-no-records.hbs",
+				"/usr/local/developer/mobile-sdk/6.0.0.431-1.2.0-1/app/js/views/list/list-view.js",
+				"/var/www/html/git/citysprint-app/custom/views/history/history-list-item.hbs",
+				"/usr/local/developer/mobile-sdk/6.0.0.431-1.2.0-1/app/js/core/hbs-helpers.js",
+				"/var/www/html/git/citysprint-app/custom/views/account-detail/detail.js",
+				"/var/www/html/git/citysprint-app/custom/views/account-detail/detail.hbs",
+				"/var/www/html/git/citysprint-app/custom/views/history/history-view.hbs",
+				"/var/www/html/git/citysprint-app/custom/routes/history-routes.js",
+				"/var/www/html/git/citysprint-app/custom/actions/history/history.js",
+				"/usr/local/developer/mobile-sdk/6.0.0.431-1.2.0-1/app/js/core/nomad-router.js",
+				"/var/www/html/git/citysprint-app/custom/views/history/history-view.js",
+				"/var/www/html/git/citysprint-app/custom/views/near-me-map/near-me-map-view.hbs",
+				"/var/www/html/git/citysprint-app/custom/menu/near-me-map-routes.js",
+				"/usr/local/developer/mobile-sdk/6.0.0.431-1.2.0-1/app/js/core/component-registration.js",
+				"/usr/local/developer/mobile-sdk/6.0.0.431-1.2.0-1/app/js/core/nomad.js",
+				"/usr/local/developer/mobile-sdk/6.0.0.431-1.2.0-1/app/js/core/customization.js"
+			],
+			"find":
+			{
+				"height": 26.0
+			},
+			"find_in_files":
+			{
+				"height": 98.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"for",
+					"selected",
+					"google",
+					";\n",
+					"37ac28c4-d039-11e7-852b-18a9055a64ec",
+					";\n",
+					"div",
+					"scoped",
+					"r"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"cdbb64bb-7ee2-5209-7adf-58dbca1d2102"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				},
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 40.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.878683407676,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 120.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"output.sftp":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,352,35,992,518,4480,1080",
+			"project": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 324.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 11,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

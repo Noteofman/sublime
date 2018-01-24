@@ -1,0 +1,11 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"SFTP",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"Vintage"
+	]
+}
